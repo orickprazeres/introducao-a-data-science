@@ -8,3 +8,9 @@
 - Renomear colunas;
 - Contar dados;
 - Melhorar a visualização das informações.
+
+# Aula 02 - Nessa aula, você aprendeu a:
+
+- Trabalhar com query;
+- Identificar os bins;
+- Filtrar apenas uma coluna.
