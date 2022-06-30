@@ -9,20 +9,20 @@
 - Contar dados;
 - Melhorar a visualização das informações.
 
-# Aula 02 - Nessa aula, você aprendeu a:
+## Aula 02 - Nessa aula, você aprendeu a:
 
 - Trabalhar com query;
 - Identificar os bins;
 - Filtrar apenas uma coluna.
 
-# Aula 03 - Nessa aula, você aprendeu a:
+## Aula 03 - Nessa aula, você aprendeu a:
 
 - Importar um CSV;
 - Identificar o tipo de uma variável observando seu conteúdo;
 - Reconhecer o que é categórica ordinal;
 - Interpretar o que é quantitativa.
 
-# Aula 04 - Nessa aula, você aprendeu a:
+## Aula 04 - Nessa aula, você aprendeu a:
 
 - Comparar categorias;
 - Identificar o que é uma Series;
@@ -31,8 +31,15 @@
 - Remover o índice para gerar duas colunas usando a função reset_index();
 - Utilizar o Categorical do seaborn.
 
-# Aula 05 - Nessa aula, você aprendeu a:
+## Aula 05 - Nessa aula, você aprendeu a:
 
 - Reescalar o gráfico;
 - Ordenar o gráfico;
 - Alterar os tons do gráfico.
+
+## Aula 06 - Nessa aula, você aprendeu a:
+
+- Comparar a média de filmes;
+- Juntar arrays com o np.append();
+- Reconhecer o que é a dispersão de dados;
+- Compreender o que é Desvio padrão.
