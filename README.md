@@ -30,3 +30,9 @@
 - Transformar em dataframe com a função to_frame();
 - Remover o índice para gerar duas colunas usando a função reset_index();
 - Utilizar o Categorical do seaborn.
+
+# Aula 05 - Nessa aula, você aprendeu a:
+
+- Reescalar o gráfico;
+- Ordenar o gráfico;
+- Alterar os tons do gráfico.
