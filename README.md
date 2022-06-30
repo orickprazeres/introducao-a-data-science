@@ -14,3 +14,10 @@
 - Trabalhar com query;
 - Identificar os bins;
 - Filtrar apenas uma coluna.
+
+# Aula 03 - Nessa aula, você aprendeu a:
+
+- Importar um CSV;
+- Identificar o tipo de uma variável observando seu conteúdo;
+- Reconhecer o que é categórica ordinal;
+- Interpretar o que é quantitativa.
